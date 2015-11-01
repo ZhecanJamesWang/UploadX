@@ -21,8 +21,8 @@ UploadX started as a simple tool for uploading images to imgur, then it was merg
 ##Dependencies
 
 UploadX depends on several libraries.
-⋅⋅⋅Asynchronous File Reader
-⋅⋅⋅pyxhook
-⋅⋅⋅qrcode
-⋅⋅⋅pygtk
-⋅⋅⋅tweetpony
+⋅⋅*Asynchronous File Reader
+⋅⋅*pyxhook
+⋅⋅*qrcode
+⋅⋅*pygtk
+⋅⋅*tweetpony
