@@ -1,8 +1,8 @@
-What is UploadX?
+What is UploadX? H2
 
 UploadX is a student project aiming to bring the functionality of the ShareX platform to Linux through Python.
 
-Why?
+Why? H2
 
 We enjoy the ease at which ShareX and services like it allow users to upload and distribute images from their computers. We found a lack of such service on Linux distributions and decided to create our own service using Python as a rapid-prototyping platform.
 
